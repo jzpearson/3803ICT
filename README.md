@@ -1,2 +1,8 @@
 # 3803ICT
-s5177636 Josh Pearson
+Full Name: Josh Pearson
+
+sNumber: 5177636  
+
+Griffith email: josh.pearson@griffithuni.edu.au
+
+Email: joshzpearson@gmail.com
